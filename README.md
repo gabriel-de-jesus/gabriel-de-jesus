@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gabriel-de-jesus.
-- 👀 I’m interested in Machine Learning, Recommender System and NLP.
+- 👀 I’m interested in Data Science, Machine Learning, Recommender System and NLP.
 - 🌱 I’m currently learning NLP for Tetun language and Recommendation Systems for online news.
 - I’m looking to collaborate on Machine Learning and NLP projects.
 - Kindly reach me on mestregabrieldejesus@gmail.com.
